@@ -8,25 +8,6 @@ This is a simple static website for a Tour & Travel agency. It includes various 
 ## Project Structure
 
 ```
-your-project/
-├── css/
-│   └── style.css
-├── images/
-│   ├── home1.jpg
-│   ├── category-1.jpg
-│   ├── category-2.jpg
-│   ├── category-3.jpg
-│   ├── img-1.jpg
-│   ├── img-2.jpg
-│   ├── img-3.jpg
-│   ├── img-4.jpg
-│   ├── img-5.jpg
-│   └── img-6.jpg
-├── js/
-│   └── script.js
-├── index.html
-└── README.md
-```
 
 ## Dependencies
 
